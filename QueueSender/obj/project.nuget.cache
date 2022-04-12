@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WwLJjAx/hjVpGoghN2YUfZqazL+rUr5Dok6Tbp0iqvo4XLKzf7DdI06wBcKpCR2RrXDv96i5UcMi9Os0bJArYg==",
+  "dgSpecHash": "dl6gSmS0i+BAg3nQ1t9n9TRMyb/kGheRiOiqAB3t5cT9xyO3Mj2jDlqLZyceucP7IO6wQTXfusG7/9ngIz0PFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisemanuel.jimenez\\source\\repos\\ServiceBusQueueQuickStart\\QueueSender\\QueueSender.csproj",
+  "projectFilePath": "C:\\3trabajo\\azurequeuesender\\QueueSender\\QueueSender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisemanuel.jimenez\\.nuget\\packages\\azure.core\\1.22.0\\azure.core.1.22.0.nupkg.sha512",
     "C:\\Users\\luisemanuel.jimenez\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",
